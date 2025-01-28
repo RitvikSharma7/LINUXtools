@@ -1,4 +1,4 @@
-# Automate the process of Compiling and running any C++ program
+#Automate the process of Compiling and running any C++ program
 
 .PHONY: default build run clean
 
