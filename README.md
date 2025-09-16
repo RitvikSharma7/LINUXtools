@@ -1,2 +1,2 @@
-# LINUXtools
-Tools for making day to day life easier while using Linux by using automation when possible.
+# UNIX UTILS
+Simple hands on utilites implementations for Linux and diffrent favors of Unix OSes.
